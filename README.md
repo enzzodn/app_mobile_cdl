@@ -16,7 +16,7 @@ O app foi criado como parte das atividades da disciplina de Análise e Desenvolv
 
 Para instalar o app no seu dispositivo Android, basta escanear o QR Code abaixo:
 
-![QR Code](assets/images/qrcode.png)
+![QR Code](qrcode.png)
 
 > **Passos:**
 > 1. Abra o leitor de QR Code do seu celular.
