@@ -25,9 +25,9 @@ Para instalar o app no seu dispositivo Android, basta escanear o QR Code abaixo:
 
 ## Autor
 
-Desenvolvedor: **[Enzzo Dias Nogueira]**  
-Curso: **Análise e Desenvolvimento de Sistemas (ADS)**
-Disciplina: **Programação para dispositivos móveis**
+Desenvolvedor: **Enzzo Dias Nogueira** <br>
+Curso: **Análise e Desenvolvimento de Sistemas (ADS)** <br>
+Disciplina: **Programação para dispositivos móveis** <br>
 Instituição: **[Faculdade CDL]**
 
 ## Licença
